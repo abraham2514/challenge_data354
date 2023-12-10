@@ -5,7 +5,7 @@
 Ce projet a été conçu dans le cadre du processus de recrutement pour un stage en ingénierie des données. L'objectif est d'évaluer mes compétences techniques en analyse métier, extraction et traitement de données, ainsi que mes compétences en programmation Python.
 
 #### Objectif du Projet
-Mettre en place un ETL (Extract, Transform, Load) pour extraire les données horaires de l'API AirQuino, calculer les moyennes quotidiennes de CO et PM2.5 pour chaque capteur, stocker les résultats dans une base de données (Cassandra ou MongoDB), créer un Dashboard Superset pour visualiser les données, et enfin, proposer une méthode d'automatisation et de mise en production de l'ETL.
+Ce projet a pour but de mettre en place un ETL (Extract, Transform, Load) pour extraire les données horaires de l'API AirQuino, calculer les moyennes quotidiennes de CO et PM2.5 pour chaque capteur, stocker les résultats dans une base de données (Cassandra ou MongoDB), créer un Dashboard Superset pour visualiser les données, et enfin, proposer une méthode d'automatisation et de mise en production de l'ETL.
 ***
 ***
 ## La realisation du projet comporte trois phases.
@@ -31,6 +31,7 @@ $from datetime import datetime, timedelta
 ***
 ### Phase 1: Extraction, Calculs et Stockage
 Dans cette phase du projet, nous avons definit trois fonction : 
+
 * def extraction(URL): Récupère les données d'un capteur via l'URL et retourne un dictionnaire d'informations sur le capteur ainsi qu'un DataFrame des données.
 ```python
 def extraction(url):
