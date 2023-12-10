@@ -158,7 +158,8 @@ Elle a été réaliser en trois étapes :
 La réalisation de ce projet a été une expérience enrichissante qui m'a permis de mettre en évidence mes connaissances existantes tout en développant de nouvelles compétences. Au fil de ce parcours, j'ai pu démontrer ma capacité à concevoir, planifier et exécuter un projet de manière autonome, en intégrant des concepts que j'avais acquis précédemment.
 
 Outre, ce projet représente bien plus qu'une simple démonstration de compétences techniques. Il incarne ma volonté d'apprendre continuellement, ma capacité à m'adapter à de nouveaux environnements, et ma détermination à exceller dans des projets ambitieux. Cette expérience a renforcé ma confiance dans mes capacités professionnelles tout en élargissant mes perspectives pour les projets futurs.
-Les contributions et les remarques sont les bienvenues.
+
+#### Les contributions et les remarques sont les bienvenues.
 
 ### Merci pour votre attention !
 ***
