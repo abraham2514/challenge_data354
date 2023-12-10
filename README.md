@@ -165,6 +165,14 @@ Elle a été réaliser en trois étapes :
 
 
 ***
+
+
+***
+## Remarque
+#### L'observation des informations des deux des deux capteurs nous permet de remarquer que leurs localisations sont differntes, on conclut donc que nos capteurs sont placés a des endroits differents.
+#### Cela justifie nos extractions, nos stockages et nos visualisations effectués de façon separées.
+***
+
 ## EN CONCLUSION
 La réalisation de ce projet a été une expérience enrichissante qui m'a permis de mettre en évidence mes connaissances existantes tout en développant de nouvelles compétences. Au fil de ce parcours, j'ai pu démontrer ma capacité à concevoir, planifier et exécuter un projet de manière autonome, en intégrant des concepts que j'avais acquis précédemment.
 
