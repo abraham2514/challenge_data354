@@ -15,7 +15,7 @@ Mettre en place un ETL (Extract, Transform, Load) pour extraire les données hor
 
 ***
 ***
-#### packages neccessires
+#### packages neccessaires
 ```python
 $ import requests
 $ import pymongo
