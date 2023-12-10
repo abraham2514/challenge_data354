@@ -180,5 +180,5 @@ Outre, ce projet représente bien plus qu'une simple démonstration de compéten
 
 #### Les contributions et les remarques sont les bienvenues.
 
-### Merci pour votre attention !
+### Merci pour votre attention !!
 ***
