@@ -58,7 +58,7 @@ def calcul_moy(data):
     return moyennes
 
 ```
-* def insertion(dataframe, database, collection): Stocke les informations du DataFrame dans une collection spécifiée d'une base de données MongoDB.
+* def insertion(dataframe, database, collection): Stocke les informations du DataFrame obtenu lors du calcul de moyennes de CO et de PM2.5 dans une collection spécifiée d'une base de données MongoDB.
 ```python
 def insertion(data,db,collection):
     
@@ -73,7 +73,7 @@ def insertion(data,db,collection):
     client.close()
 
 ```
-* def insertion_data(dataframe, database, collection): Stocke les données du capteur dans une collection spécifiée d'une base de données MongoDB.
+* def insertion_data(dataframe, database, collection): Stocke les données d'un capteur dans une collection spécifiée d'une base de données MongoDB.
 ```python
 def insertion_data(data,db,collection):
     
