@@ -32,7 +32,7 @@ $from datetime import datetime, timedelta
 ### Phase 1: Extraction, Calculs et Stockage
 Dans cette phase du projet, nous avons definit trois fonction : 
 
-* def extraction(URL): Récupère les données d'un capteur via l'URL et retourne un dictionnaire d'informations sur le capteur ainsi qu'un DataFrame des données.
+* def extraction(URL): Récupère les données d'un capteur via l'URL et retourne un dictionnaire d'informations sur le capteur ainsi qu'un DataFrame des données enregistrés par ce capteur.
 ```python
 def extraction(url):
     response = requests.get(url)
