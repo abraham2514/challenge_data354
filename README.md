@@ -23,10 +23,10 @@ Ce projet a pour but de mettre en place un ETL (Extract, Transform, Load) pour e
 ```python
 $ import requests
 $ import pymongo
-$ pandas as pd
+$ import pandas as pd
 $ from airflow import DAG
-$from airflow.operators.python_operator import PythonOperator
-$from datetime import datetime, timedelta
+$ from airflow.operators.python_operator import PythonOperator
+$ from datetime import datetime, timedelta
 ```
 ***
 ***
