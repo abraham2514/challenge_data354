@@ -34,8 +34,15 @@ $from datetime import datetime, timedelta
 # Phase de Réalisation du Projet
 ***
 ### Phase 1: Extraction, Calculs et Stockage
-Dans cette phase du projet, nous avons definit trois fonction : 
+Dans cette phase du projet, nous avons definit quatre fonctions : 
 
+* Une pour l'extraction des donnees : Elle prend en paramettre un lien et  retourne un dictionnaire comportant les informations sur le capteurs et un data frame comportant les donnees du capteur
+* Une pour calculer les moyennes de CO et de PM2.5 quotidiennes : Elle prend en paramettre les donnees d'un capteur et retourne la moyenne de CO et de PM2.5 par jour dans un data frame
+* Une pour le stockage des resultats obtenus lors du calcul de moyennes dans la base mongo
+* Une pour stocker les donnees d'un capteur dans la base de donnees mongo 
+
+***
+## Mes fonctions
 * def extraction(URL): Récupère les données d'un capteur via l'URL et retourne un dictionnaire d'informations sur le capteur ainsi qu'un DataFrame des données enregistrés par ce capteur.
 ```python
 def extraction(url):
@@ -98,7 +105,7 @@ def insertion_data(data,db,collection):
     client.close()
 
 ```
-
+***
 ***
 
 ***
