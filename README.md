@@ -49,7 +49,7 @@ def extraction(url):
 
 ```
   
-* def calcul_moy(dataframe): Prend un DataFrame de données de capteur en entrée et retourne la moyenne quotidienne du CO et du PM2.5 dans un nouveau DataFrame.
+* def calcul_moy(dataframe): Prend en parametre les données d'un capteur  et retourne la moyenne quotidienne du CO et du PM2.5 sous forme de  DataFrame.
 ```python
 def calcul_moy(data):
     df = pd.DataFrame({'date': data['timestamp'],'moy_CO': data['CO'] ,'moy_PM2.5': data['PM2.5']})
