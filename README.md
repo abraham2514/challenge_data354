@@ -8,7 +8,7 @@ Ce projet a été conçu dans le cadre du processus de recrutement pour un stage
 Mettre en place un ETL (Extract, Transform, Load) pour extraire les données horaires de l'API AirQuino, calculer les moyennes quotidiennes de CO et PM2.5 pour chaque capteur, stocker les résultats dans une base de données (Cassandra ou MongoDB), créer un Dashboard Superset pour visualiser les données, et enfin, proposer une méthode d'automatisation et de mise en production de l'ETL.
 ***
 ***
-## Ce projet se presente en trois phases.
+## La realisation du projet comporte trois phases.
 1. [Extraction de Données, Calcul de la Moyenne de CO et de PM2.5 par Jour et Sauvegarde des Résultats](#general-info)
 2. [Automatisation et Stratégie de Mise en Production](#technologies)
 3. [Visualisation avec Superset](#installation)
