@@ -2,7 +2,7 @@
 # Projet de Stagiaire Data Engineer
 ***
 #### Presentation du projet
-Ce projet a été conçu dans le cadre du processus de recrutement pour un stage en data engineering. L'objectif est d'évaluer mes compétences techniques en analyse métier, extraction et traitement de données, ainsi qu'en programmation Python.
+Ce projet a été conçu dans le cadre du processus de recrutement pour un stage en ingénierie des données. L'objectif est d'évaluer mes compétences techniques en analyse métier, extraction et traitement de données, ainsi que mes compétences en programmation Python.
 
 #### Objectif du Projet
 Mettre en place un ETL (Extract, Transform, Load) pour extraire les données horaires de l'API AirQuino, calculer les moyennes quotidiennes de CO et PM2.5 pour chaque capteur, stocker les résultats dans une base de données (Cassandra ou MongoDB), créer un Dashboard Superset pour visualiser les données, et enfin, proposer une méthode d'automatisation et de mise en production de l'ETL.
