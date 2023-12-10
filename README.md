@@ -149,7 +149,8 @@ Elle a été réaliser en trois étapes :
 ## QUELQUE COMMENTAIRES DE MES DASHBORDS
 
 *  Les tableaux de bord montrent que nos capteurs effectuent 168 enregistrements par semaine. Cependant, pour **la dernière semaine du mois de janvier 2023**, nos capteurs n'ont **enregistré que 35 enregistrements.**
-*  Pour le capteur smart_188, le **taux de carbone** connais une **chute brusque** entre les mois de fevrier et mars 2023  
+*  Pour le capteur smart_188, le **taux de carbone** connais une **chute brusque** entre les mois de fevrier et mars 2023
+*  Les tableaux de bord motrent les valeurs min, max et la moyenne pour le CO, par semaine, un filtre a ete ajouter pour plus de precision. 
 
 
 ***
